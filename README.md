@@ -1,2 +1,2 @@
-# Woocommerce-Shipping-Extra-fileds
-Woocommerce Shipping extra filds with charges
+# Woocommerce-Extra-Fields-For-Shipping-with-Charges
+Woocommerce Extra Fields For Shipping with Charges
